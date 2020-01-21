@@ -18,5 +18,8 @@
 ## Demo
 ![](demo.gif)
 
+## References
+[This](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq) Python pygame tutorial
+
 ## Why?
 Why not?
